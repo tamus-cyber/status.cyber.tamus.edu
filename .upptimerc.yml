@@ -12,7 +12,7 @@ status-website:
   cname: status.cyber.tamus.edu
   # baseUrl: /your-repo-name
   logoUrl: https://www.cyber.tamus.edu/img/tamus-cyber-logo.svg
-  name: TAMUS Cyber Status
+  # name: TAMUS Cyber Status
   introTitle: "**TAMUS Cyber Status** is based on Upptime, the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: ""
   navbar:

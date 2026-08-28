@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cyber.tamus.edu
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.cyber.tamus.edu/img/tamus-cyber-logo.svg
   name: TAMUS Cyber Status
   introTitle: "**TAMUS Cyber Status** is based on Upptime, the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: ""

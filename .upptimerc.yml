@@ -2,7 +2,25 @@
 owner: tamus-cyber # Your GitHub organization or username, where this repository lives
 repo: status.cyber.tamus.edu # The name of this repository
 
+secrets:
+  - DUO_ADVANTAGE_URL
+  - DUO_ESSENTIALS_URL
+  - ONETRUST_URL
+  - BLACK_KITE_URL
+
 sites:
+  - name: Cisco Duo Advantage Admin Portal
+    slug: duo-advantage
+    url: $DUO_ADVANTAGE_URL
+  - name: Cisco Duo Essentials Admin Portal
+    slug: duo-essentials
+    url: $DUO_ESSENTIALS_URL
+  - name: Managed Risk Assessment Platform (OneTrust)
+    slug: mrap
+    url: $ONETRUST_URL
+  - name: Managed Supply Chain Risk Management Platform (Black Kite)
+    slug: mscrmp
+    url: $BLACK_KITE_URL
   - name: TAMUS Cyber Website
     url: https://www.cyber.tamus.edu
 

@@ -1,5 +1,85 @@
 [
   {
+    "name": "Cisco Duo Advantage Admin Portal",
+    "url": "$DUO_ADVANTAGE_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "duo-advantage",
+    "status": "down",
+    "uptime": "20.67%",
+    "uptimeDay": "20.67%",
+    "uptimeWeek": "20.67%",
+    "uptimeMonth": "20.67%",
+    "uptimeYear": "20.67%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-08-29": 1
+    }
+  },
+  {
+    "name": "Cisco Duo Essentials Admin Portal",
+    "url": "$DUO_ESSENTIALS_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "duo-essentials",
+    "status": "down",
+    "uptime": "26.29%",
+    "uptimeDay": "26.29%",
+    "uptimeWeek": "26.29%",
+    "uptimeMonth": "26.29%",
+    "uptimeYear": "26.29%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-08-29": 1
+    }
+  },
+  {
+    "name": "Managed Risk Assessment Platform (OneTrust)",
+    "url": "$ONETRUST_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "mrap",
+    "status": "down",
+    "uptime": "39.21%",
+    "uptimeDay": "39.21%",
+    "uptimeWeek": "39.21%",
+    "uptimeMonth": "39.21%",
+    "uptimeYear": "39.21%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-08-29": 0
+    }
+  },
+  {
+    "name": "Managed Supply Chain Risk Management Platform (Black Kite)",
+    "url": "$BLACK_KITE_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "mscrmp",
+    "status": "down",
+    "uptime": "69.72%",
+    "uptimeDay": "69.72%",
+    "uptimeWeek": "69.72%",
+    "uptimeMonth": "69.72%",
+    "uptimeYear": "69.72%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-08-29": 0
+    }
+  },
+  {
     "name": "TAMUS Cyber Website",
     "url": "https://www.cyber.tamus.edu",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyber.tamus.edu.ico",
@@ -10,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 372,
-    "timeWeek": 372,
-    "timeMonth": 372,
-    "timeYear": 372,
+    "time": 363,
+    "timeDay": 363,
+    "timeWeek": 363,
+    "timeMonth": 363,
+    "timeYear": 363,
     "dailyMinutesDown": {}
   }
 ]

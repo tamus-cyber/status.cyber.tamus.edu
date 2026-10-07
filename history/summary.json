@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 476,
-    "timeDay": 618,
-    "timeWeek": 461,
-    "timeMonth": 477,
-    "timeYear": 476,
+    "time": 472,
+    "timeDay": 302,
+    "timeWeek": 401,
+    "timeMonth": 480,
+    "timeYear": 472,
     "dailyMinutesDown": {
       "2026-08-29": 37
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 481,
-    "timeDay": 559,
-    "timeWeek": 469,
-    "timeMonth": 479,
-    "timeYear": 481,
+    "time": 477,
+    "timeDay": 340,
+    "timeWeek": 412,
+    "timeMonth": 481,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2026-08-29": 37
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 164,
-    "timeDay": 115,
-    "timeWeek": 146,
-    "timeMonth": 168,
-    "timeYear": 164,
+    "time": 166,
+    "timeDay": 248,
+    "timeWeek": 172,
+    "timeMonth": 173,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2026-08-29": 37
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mscrmp",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 314,
-    "timeDay": 411,
-    "timeWeek": 248,
-    "timeMonth": 301,
-    "timeYear": 314,
+    "uptimeYear": "99.94%",
+    "time": 311,
+    "timeDay": 225,
+    "timeWeek": 260,
+    "timeMonth": 299,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2026-08-29": 36
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 333,
-    "timeWeek": 277,
-    "timeMonth": 281,
-    "timeYear": 306,
+    "time": 305,
+    "timeDay": 247,
+    "timeWeek": 276,
+    "timeMonth": 280,
+    "timeYear": 305,
     "dailyMinutesDown": {}
   }
 ]

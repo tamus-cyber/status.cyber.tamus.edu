@@ -45,17 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "duo-fedramp",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "44.42%",
+    "uptimeDay": "44.42%",
+    "uptimeWeek": "44.42%",
+    "uptimeMonth": "44.42%",
+    "uptimeYear": "44.42%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-12": 0
+    }
   },
   {
     "name": "Managed Risk Assessment Platform (OneTrust)",

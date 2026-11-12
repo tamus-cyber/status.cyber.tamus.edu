@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "duo-advantage",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 477,
-    "timeDay": 504,
-    "timeWeek": 497,
-    "timeMonth": 489,
-    "timeYear": 477,
-    "dailyMinutesDown": {
-      "2026-08-29": 37
-    }
+    "uptimeYear": "100.00%",
+    "time": 470,
+    "timeDay": 380,
+    "timeWeek": 441,
+    "timeMonth": 472,
+    "timeYear": 470,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cisco Duo Essentials Admin Portal",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "duo-essentials",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 481,
-    "timeDay": 455,
-    "timeWeek": 477,
-    "timeMonth": 496,
-    "timeYear": 481,
-    "dailyMinutesDown": {
-      "2026-08-29": 37
-    }
+    "uptimeYear": "100.00%",
+    "time": 474,
+    "timeDay": 355,
+    "timeWeek": 427,
+    "timeMonth": 479,
+    "timeYear": 474,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cisco Duo FedRAMP High (Class D) Admin Portal",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "duo-fedramp",
     "status": "down",
-    "uptime": "44.42%",
-    "uptimeDay": "44.42%",
-    "uptimeWeek": "44.42%",
-    "uptimeMonth": "44.42%",
-    "uptimeYear": "44.42%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-11-12": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Managed Risk Assessment Platform (OneTrust)",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mrap",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 168,
-    "timeDay": 172,
-    "timeWeek": 181,
-    "timeMonth": 167,
-    "timeYear": 168,
-    "dailyMinutesDown": {
-      "2026-08-29": 37
-    }
+    "uptimeYear": "100.00%",
+    "time": 170,
+    "timeDay": 199,
+    "timeWeek": 192,
+    "timeMonth": 171,
+    "timeYear": 170,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Managed Supply Chain Risk Management Platform (Black Kite)",
@@ -85,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mscrmp",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 405,
-    "timeDay": 248,
-    "timeWeek": 228,
-    "timeMonth": 546,
-    "timeYear": 405,
-    "dailyMinutesDown": {
-      "2026-08-29": 36
-    }
+    "uptimeYear": "100.00%",
+    "time": 403,
+    "timeDay": 276,
+    "timeWeek": 245,
+    "timeMonth": 533,
+    "timeYear": 403,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TAMUS Cyber Website",
@@ -110,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 231,
-    "timeWeek": 253,
-    "timeMonth": 269,
-    "timeYear": 290,
+    "time": 289,
+    "timeDay": 234,
+    "timeWeek": 251,
+    "timeMonth": 268,
+    "timeYear": 289,
     "dailyMinutesDown": {}
   }
 ]

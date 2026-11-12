@@ -32,7 +32,7 @@ status-website:
   logoUrl: https://www.cyber.tamus.edu/img/tamus-cyber-logo.svg
   themeUrl: https://status.cyber.tamus.edu/custom.css
   name: TAMUS Cyber Status
-  introTitle: "**TAMUS Cyber Status** is based on Upptime, the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: ""
   introMessage: ""
   navbar:
     - title: Status

@@ -15,6 +15,9 @@ sites:
   - name: Cisco Duo Essentials Admin Portal
     slug: duo-essentials
     url: $DUO_ESSENTIALS_URL
+  - name: Cisco Duo FedRAMP High (Class D) Admin Portal
+    slug: duo-fedramp
+    url: $DUO_FEDRAMP_URL
   - name: Managed Risk Assessment Platform (OneTrust)
     slug: mrap
     url: $ONETRUST_URL

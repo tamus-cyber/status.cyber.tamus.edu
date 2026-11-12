@@ -5,6 +5,7 @@ repo: status.cyber.tamus.edu # The name of this repository
 secrets:
   - DUO_ADVANTAGE_URL
   - DUO_ESSENTIALS_URL
+  - DUO_FEDRAMP_URL
   - ONETRUST_URL
   - BLACK_KITE_URL
 

@@ -94,9 +94,9 @@
     "url": "https://www.cyber.tamus.edu",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyber.tamus.edu.ico",
     "slug": "tamus-cyber-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +105,8 @@
     "timeWeek": 307,
     "timeMonth": 266,
     "timeYear": 288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-26": 0
+    }
   }
 ]
